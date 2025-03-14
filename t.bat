@@ -1,0 +1,1 @@
+subst t: E:\EGYETEM REGI\GRAFIKA
